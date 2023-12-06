@@ -23,4 +23,4 @@ array_1 = [11, 21, 3, 1, 15, 24, 38, 7, 54, 9]
 array_2 = [18, 5, 15, 9, 3, 56, 2, 5, 47, 88]
 
 correlation = round(pearson(array_1, array_2), 3)
-print(f"Корреляция Пирсона: {correlation}")
+print(f"Корреляция Пирсона: {correlation}")add
